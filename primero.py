@@ -1,0 +1,6 @@
+print("hola")
+s=5
+r=3
+g=5+3
+print(g)
+print("estamos todos contentos")
